@@ -1,1 +1,1 @@
-# sedai_k8s_python
+# Kubernetes Python Client for Sedai Project
