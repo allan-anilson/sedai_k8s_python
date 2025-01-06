@@ -1,1 +1,1 @@
-# Kubernetes Python Client for Sedai Project
+# sedai_kubernetes
